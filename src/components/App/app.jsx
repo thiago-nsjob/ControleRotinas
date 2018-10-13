@@ -16,7 +16,7 @@ import { withStyles } from '@material-ui/core/styles';
 const styles = theme => ({
   body:{
     "background-color":"#161925",
-     height:"100%"
+    height:"100%",
   },
 });
 

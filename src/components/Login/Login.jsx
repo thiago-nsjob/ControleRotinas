@@ -11,7 +11,7 @@ const styles = theme => ({
     display:"flex",
     "justify-content": "center",
     "align-items": "center",
-    "padding-top":"15em"
+    "padding-top":"10vh",
   },
   login:{
     "background-color": "#4B5D78",
@@ -33,7 +33,7 @@ const styles = theme => ({
     "margin-bottom":"1em",
   },
   title:{
-    "margin-top":"1em",
+    "margin-top":"5vh",
     align:"center",
     color:"white",
     "font-size":"55pt",
